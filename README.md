@@ -30,18 +30,4 @@
 - **System.Data.SqlClient (v4.8.5)**
 - **MSSQL Server**
 
-## Proje Yapısı
-ProjectPanasonic_/
-│
-├── Form1.cs, Form2.cs, ... # Ana formlar ve işlevsel ekranlar
-├── Util/
-│ └── DBUtil.cs # Veritabanı yardımcı sınıfı
-├── Services/
-│ └── UserServices.cs # Kullanıcı işlemleri için servis katmanı (altyapı)
-├── Properties/
-│ ├── Settings.settings # Uygulama ayarları ve bağlantı stringleri
-│ ├── Resources.resx # Kaynak dosyaları (ikon, metin vb.)
-│ └── AssemblyInfo.cs # Derleyici ve sürüm bilgileri
-├── App.config # Uygulama yapılandırma dosyası
-├── ProjectPanasonic_.csproj # Proje dosyası
-└── packages.config # NuGet bağımlılıkları
+
