@@ -30,4 +30,7 @@
 - **System.Data.SqlClient (v4.8.5)**
 - **MSSQL Server**
 
+## Proje Ekran Görüntüleri
+![Image](https://github.com/user-attachments/assets/6e425b3f-c136-4e98-bb2d-ff14f46f4cfe)
+
 
