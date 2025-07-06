@@ -1,5 +1,10 @@
 # Panasonic Bakım Modülü
 
+## Proje Ekran Görüntüleri
+![Image](https://github.com/user-attachments/assets/6e425b3f-c136-4e98-bb2d-ff14f46f4cfe)
+
+
+
 ## Genel Bakış
 
 **Panasonic Bakım Modülü**, bakım süreçlerinin yönetimini kolaylaştırmak amacıyla geliştirilmiş, kullanıcı dostu arayüze sahip bir masaüstü uygulamasıdır. Proje, Panasonic Electric Works Türkiye'nin bakım operasyonlarını dijitalleştirmek ve merkezi olarak yönetmek için tasarlanmıştır. Bu proje, Panasonic'te yapılan staj sürecinde verilen bir projedir.
@@ -29,8 +34,4 @@
 - **Dapper (v2.0.143)**
 - **System.Data.SqlClient (v4.8.5)**
 - **MSSQL Server**
-
-## Proje Ekran Görüntüleri
-![Image](https://github.com/user-attachments/assets/6e425b3f-c136-4e98-bb2d-ff14f46f4cfe)
-
 
